@@ -15,7 +15,7 @@ namespace Credit_Score_App_NunitTests
 
 
         [Test]
-        [Ignore("Test under construction")]
+        //[Ignore("Ignore test under constructions")]
         public void CalculatePoint_PassCustomer_ShouldReturnCorrectPoints()
         {
             //Arrange - Given customers
