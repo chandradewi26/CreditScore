@@ -13,6 +13,8 @@ namespace Credit_Score_App
 
     public class CreditCalculator : ICreditCalculator
     {
+
+        //REFACTOR IT
         public int CalculatePoint (Customer customer)
         {
             int point = 0;

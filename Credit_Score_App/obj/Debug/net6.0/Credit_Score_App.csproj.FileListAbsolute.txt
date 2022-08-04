@@ -13,3 +13,18 @@ C:\Users\NanaMocchy\Chandradewi2691\C Sharp Workspace\Credit Score\Credit_Score_
 C:\Users\NanaMocchy\Chandradewi2691\C Sharp Workspace\Credit Score\Credit_Score_App\Credit_Score_App\obj\Debug\net6.0\Credit_Score_App.pdb
 C:\Users\NanaMocchy\Chandradewi2691\C Sharp Workspace\Credit Score\Credit_Score_App\Credit_Score_App\obj\Debug\net6.0\Credit_Score_App.genruntimeconfig.cache
 C:\Users\NanaMocchy\Chandradewi2691\C Sharp Workspace\Credit Score\Credit_Score_App\Credit_Score_App\obj\Debug\net6.0\ref\Credit_Score_App.dll
+C:\Users\chandra.dewi\zip\credit-score-program\CreditScore\Credit_Score_App\bin\Debug\net6.0\Credit_Score_App.exe
+C:\Users\chandra.dewi\zip\credit-score-program\CreditScore\Credit_Score_App\bin\Debug\net6.0\Credit_Score_App.deps.json
+C:\Users\chandra.dewi\zip\credit-score-program\CreditScore\Credit_Score_App\bin\Debug\net6.0\Credit_Score_App.runtimeconfig.json
+C:\Users\chandra.dewi\zip\credit-score-program\CreditScore\Credit_Score_App\bin\Debug\net6.0\Credit_Score_App.dll
+C:\Users\chandra.dewi\zip\credit-score-program\CreditScore\Credit_Score_App\bin\Debug\net6.0\Credit_Score_App.pdb
+C:\Users\chandra.dewi\zip\credit-score-program\CreditScore\Credit_Score_App\obj\Debug\net6.0\Credit_Score_App.csproj.AssemblyReference.cache
+C:\Users\chandra.dewi\zip\credit-score-program\CreditScore\Credit_Score_App\obj\Debug\net6.0\Credit_Score_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chandra.dewi\zip\credit-score-program\CreditScore\Credit_Score_App\obj\Debug\net6.0\Credit_Score_App.AssemblyInfoInputs.cache
+C:\Users\chandra.dewi\zip\credit-score-program\CreditScore\Credit_Score_App\obj\Debug\net6.0\Credit_Score_App.AssemblyInfo.cs
+C:\Users\chandra.dewi\zip\credit-score-program\CreditScore\Credit_Score_App\obj\Debug\net6.0\Credit_Score_App.csproj.CoreCompileInputs.cache
+C:\Users\chandra.dewi\zip\credit-score-program\CreditScore\Credit_Score_App\obj\Debug\net6.0\Credit_Score_App.dll
+C:\Users\chandra.dewi\zip\credit-score-program\CreditScore\Credit_Score_App\obj\Debug\net6.0\refint\Credit_Score_App.dll
+C:\Users\chandra.dewi\zip\credit-score-program\CreditScore\Credit_Score_App\obj\Debug\net6.0\Credit_Score_App.pdb
+C:\Users\chandra.dewi\zip\credit-score-program\CreditScore\Credit_Score_App\obj\Debug\net6.0\Credit_Score_App.genruntimeconfig.cache
+C:\Users\chandra.dewi\zip\credit-score-program\CreditScore\Credit_Score_App\obj\Debug\net6.0\ref\Credit_Score_App.dll

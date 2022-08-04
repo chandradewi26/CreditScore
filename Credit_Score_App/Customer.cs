@@ -8,6 +8,8 @@ namespace Credit_Score_App
 {
     public class Customer
     {
+        //Coding Convention for private 
+        private string _customerName;
         public int BureauScore { get; }
         public int MissedPaymentCount { get; }
         public int CompletedPaymentCount { get; }
@@ -18,6 +20,12 @@ namespace Credit_Score_App
             MissedPaymentCount = missedPaymentCount;
             CompletedPaymentCount = completedPaymentCount;
             AgeInYears = ageInYears;
+        }
+
+        //Coding convention for String Interpolation
+        public void DisplayName()
+        {
+            Console.WriteLine($"Customer name is : {_customerName}");
         }
     }
 }

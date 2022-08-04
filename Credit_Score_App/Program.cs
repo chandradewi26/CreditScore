@@ -1,8 +1,14 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Credit_Score_App;
 
+//Implicit type Variable : for local variables when the type of the variable is obvious from right side of assignment, or when the precise type is not important.
+var implicitType = "Just assigning string to var";
 
-//Creating customers
+//This is Manual Testing
+
+//Arrange
+CreditCalculator creditCalculator = new CreditCalculator();
+
 Customer customer_decline = new Customer(0, 0, 3, 52);              
                                         // 0    0   4   6   =   10  ($0)
 Customer customer_fail =    new Customer(451, 3, 0, 20);            
@@ -13,8 +19,7 @@ Customer customer_pass2 =   new Customer(451, 2, 0, 20);
                                         // 1    -3  0   3   =   1   ($100)
 Customer customer_john =    new Customer(750, 1, 4, 29);    
                                         // 2    -1  4   4   =   9   ($600)
-
-CreditCalculator creditCalculator = new CreditCalculator();
+//Act
 Console.Write("Customer 1 : ");
 Console.Write(creditCalculator.CalculatePoint(customer_decline) + " points, ");
 Console.WriteLine(creditCalculator.CalculateCredit(customer_decline));
